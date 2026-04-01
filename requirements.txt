@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.32.0
 numpy
 pandas
 opencv-python-headless
 pillow
 scikit-image
-tensorflow-cpu
-keras
+tensorflow-cpu==2.12.0
+keras==2.12.0
 pytesseract
