@@ -1,6 +1,9 @@
 streamlit
-tensorflow==2.13.0
-opencv-python
 numpy
+pandas
+opencv-python-headless
 pillow
-scikit-learn
+scikit-image
+tensorflow-cpu
+keras
+pytesseract
