@@ -4,6 +4,4 @@ pandas==1.5.3
 opencv-python-headless==4.7.0.72
 pillow==9.5.0
 scikit-image==0.20.0
-tensorflow-cpu==2.12.0
-keras==2.12.0
 pytesseract
